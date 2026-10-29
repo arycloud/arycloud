@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=AIOps+Engineer;Automating+intelligent+operations;Building+systems+that+respond" alt="Typing introduction" />
+  </a>
+</div>
+
+<div align="center">
 
   <a href="https://github.com/arycloud">
     <img src="https://img.shields.io/badge/GitHub-arycloud-181717?style=for-the-badge&logo=github" alt="GitHub" />
@@ -102,13 +108,18 @@ Alongside my personal projects, I’ve contributed to a portfolio of AI-powered 
 
 <div align="center">
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | Python · TypeScript · JavaScript · SQL |
-| **Backend** | Django · FastAPI · Flask · REST APIs |
-| **AI / ML** | TensorFlow · Statistics · LLMs · Embeddings · LangChain · RAG |
-| **Data & Infra** | PostgreSQL · Chroma · Docker · Git · Linux · Observability |
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,django,fastapi,flask,docker,kubernetes,postgres,linux,git,github" alt="AIOps engineering toolkit" />
 
+<br />
+
+<img src="https://skillicons.dev/icons?i=tensorflow,redis,graphql,nginx,aws,azure,gcp,terraform" alt="Cloud, AI, and platform technologies" />
+
+</div>
+
+## Contributions in motion
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arycloud/arycloud/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </div>
 
 ## GitHub at a glance
