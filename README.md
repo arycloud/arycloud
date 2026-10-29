@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Abdul%20Rehman%20Yousaf&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=ML%20Engineer%20%7C%20Python%20Developer%20%7C%20AI%20Builder&descAlignY=58&descSize=18" alt="Profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Abdul%20Rehman%20Yousaf&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AIOps%20%7C%20ML%20Engineering%20%7C%20Python%20Development&descAlignY=58&descSize=18" alt="Profile header" />
 </div>
 
 <div align="center">
@@ -16,15 +16,15 @@
 
 ## Hello, I'm Abdul 👋
 
-I’m an **ML Engineer and Python developer** who enjoys turning complex ideas into useful, production-minded software. My work sits at the intersection of **machine learning, statistics, web development, and generative AI**.
+I’m an **AIOps-focused ML Engineer and Python developer** who turns complex ideas into useful, production-minded software. I work at the intersection of **AI-assisted operations, automation, backend engineering, machine learning, and observability**.
 
 - Working with **[Pythonist.org](https://github.com/pythonest)** on practical software and AI solutions
-- Building intelligent products with **Python, Django, FastAPI, and TypeScript**
-- Exploring **LLM applications, RAG, semantic search, and AI agents**
-- Creating reliable APIs, experiments, and tools that solve real problems
+- Building intelligent operational tools with **Python, Django, FastAPI, and TypeScript**
+- Applying **LLMs, RAG, semantic search, and AI agents** to real workflows
+- Turning data and system signals into **automation, insight, and faster decisions**
 - Sharing what I learn through projects and **[pythonist.org](https://pythonist.org)**
 
-> **My focus:** make AI practical, understandable, and genuinely useful.
+> **My focus:** make systems more observable, automated, reliable, and useful.
 
 ## Featured work
 
@@ -32,13 +32,13 @@ I’m an **ML Engineer and Python developer** who enjoys turning complex ideas i
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/arycloud/HaqooqAI">⚖️ HaqooqAI</a></h3>
-      <p>An AI service providing Pakistan legal information through LLM-powered responses.</p>
+      <p>An AI service that turns domain knowledge into accessible, LLM-powered responses.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/LLM%20Applications-111827?style=flat-square" alt="LLM applications" />
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/arycloud/read-aura">📚 Read Aura</a></h3>
-      <p>A semantic book recommender using embeddings, LangChain, Chroma, and Gradio.</p>
+      <p>A semantic search and recommendation workflow using embeddings, LangChain, Chroma, and Gradio.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" alt="RAG" />
     </td>
@@ -46,7 +46,7 @@ I’m an **ML Engineer and Python developer** who enjoys turning complex ideas i
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/arycloud/plan-pilot">🧭 Plan Pilot</a></h3>
-      <p>An AI task-planning assistant that turns natural-language goals into actionable subtasks.</p>
+      <p>An AI planning workflow that turns natural-language goals into actionable subtasks.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square" alt="AI agents" />
     </td>
@@ -59,6 +59,19 @@ I’m an **ML Engineer and Python developer** who enjoys turning complex ideas i
   </tr>
 </table>
 
+## Practical skillset
+
+<div align="center">
+
+| Capability | Hands-on focus |
+| --- | --- |
+| **AIOps & automation** | AI-assisted workflows · task planning · operational tooling · workflow automation |
+| **Backend engineering** | REST APIs · Django · FastAPI · Flask · authentication · testing |
+| **AI / ML delivery** | LLM applications · RAG · embeddings · semantic search · TensorFlow · statistics |
+| **Data & reliability** | SQL · PostgreSQL · Chroma · Docker · Linux · Git · monitoring-minded development |
+
+</div>
+
 ## Toolkit
 
 <div align="center">
@@ -68,7 +81,7 @@ I’m an **ML Engineer and Python developer** who enjoys turning complex ideas i
 | **Languages** | Python · TypeScript · JavaScript · SQL |
 | **Backend** | Django · FastAPI · Flask · REST APIs |
 | **AI / ML** | TensorFlow · Statistics · LLMs · Embeddings · LangChain · RAG |
-| **Data & Infra** | PostgreSQL · Chroma · Docker · Git · Linux |
+| **Data & Infra** | PostgreSQL · Chroma · Docker · Git · Linux · Observability |
 
 </div>
 
