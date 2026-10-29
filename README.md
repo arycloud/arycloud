@@ -7,9 +7,6 @@
   <a href="https://github.com/arycloud">
     <img src="https://img.shields.io/badge/GitHub-arycloud-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://pythonist.org">
-    <img src="https://img.shields.io/badge/Website-pythonist.org-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=arycloud&style=for-the-badge&color=2563eb" alt="Profile views" />
 
 </div>
