@@ -104,6 +104,23 @@ Alongside my personal projects, I’ve contributed to a portfolio of AI-powered 
 
 </div>
 
+## AI toolkit
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white" alt="Retrieval augmented generation" />
+</div>
+
+<div align="center">
+  <sub>LLM applications · multi-agent workflows · voice AI · embeddings · semantic search · automation</sub>
+</div>
+
 ## Toolkit
 
 <div align="center">
