@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Abdul%20Rehman%20Yousaf&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AIOps%20%7C%20ML%20Engineering%20%7C%20Python%20Development&descAlignY=58&descSize=18" alt="Profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Abdul%20Rehman%20Yousaf&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AIOps%20Engineer%20%7C%20Automation%20%7C%20Python%20Development&descAlignY=58&descSize=18" alt="Profile header" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=AIOps+Engineer;Automating+intelligent+operations;Building+systems+that+respond" alt="Typing introduction" />
+  </a>
 </div>
 
 <div align="center">
@@ -11,17 +17,17 @@
 
 </div>
 
-## Hi, This is Abdul Rehman 👋
+## I build systems that do more than run — they respond. ⚙️
 
-I’m an **AIOps Engineer** who turns complex ideas into useful, production-minded software. I work at the intersection of **AI-assisted operations, automation, backend engineering, machine learning, and observability**.
+I’m **Abdul Rehman**, an **AIOps Engineer at Al Nafi** building where **automation, intelligent software, and reliable operations** meet.
 
-- Working with **[AL NAFI E-Learning Pvt. (Ltd)]([https://github.com/pythonest](https://github.com/Al-Nafi))** on practical software and AI solutions
-- Building intelligent operational tools with **Python, Django, FastAPI, and TypeScript**
-- Applying **LLMs, RAG, semantic search, and AI agents** to real workflows
-- Turning data and system signals into **automation, insight, and faster decisions**
-- Sharing what I learn through projects and **[pythonist.org](https://pythonist.org)**
+🔭 Building practical AI tools, APIs, and operational workflows at **Al Nafi**
 
-> **My focus:** make systems more observable, automated, reliable, and useful.
+🌱 Growing deeper into **observability, LLM applications, RAG, agents, and reliable system design**
+
+💬 Ask me about **Python, machine learning, backend engineering, automation, APIs, and turning messy problems into working software**
+
+⚡ Fun fact: The best automation is the kind people notice only when it stops working.
 
 ## Featured work
 
@@ -56,6 +62,32 @@ I’m an **AIOps Engineer** who turns complex ideas into useful, production-mind
   </tr>
 </table>
 
+## Behind the scenes 🔒
+
+Some of my most hands-on AI work lives in private projects:
+
+- **Multi-agent research systems** that break down complex questions, search the web, critique findings, and produce cited reports—with semantic caching, budget-aware execution, and graceful failure recovery.
+- **AI content automation** that generates SEO-ready articles, supports human review, and publishes or schedules content through a WordPress API.
+- **Grounded legal AI** using document embeddings, vector retrieval, tool-using agents, FastAPI, and a chat interface to return source-aware answers.
+
+## Selected work at Al Nafi
+
+Alongside my personal projects, I’ve contributed to a portfolio of AI-powered products and practical software systems at **Al Nafi**:
+
+<div align="center">
+
+| Project | Focus |
+| --- | --- |
+| [Videogen](https://github.com/Al-Nafi/videogen) | AI-assisted video generation and media workflows |
+| [KOMPASS](https://github.com/Al-Nafi/KOMPASS) | Product engineering and intelligent workflow development |
+| [Orai](https://github.com/Al-Nafi/orai) | AI product development and automation |
+| [Clipper](https://github.com/Al-Nafi/clipper) | Practical software tooling and workflow automation |
+| [AI Marketing Agent](https://github.com/Al-Nafi/ai-marketing-agent) | AI-powered marketing and content automation |
+| [Medicore](https://github.com/Al-Nafi/medicore) | Applied product engineering for the healthcare domain |
+| [Qubix](https://github.com/Al-Nafi/qubix) | Intelligent product systems and platform development |
+
+</div>
+
 ## Practical skillset
 
 <div align="center">
@@ -69,17 +101,39 @@ I’m an **AIOps Engineer** who turns complex ideas into useful, production-mind
 
 </div>
 
+## AI toolkit
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white" alt="Retrieval augmented generation" />
+</div>
+
+<div align="center">
+  <sub>LLM applications · multi-agent workflows · voice AI · embeddings · semantic search · automation</sub>
+</div>
+
 ## Toolkit
 
 <div align="center">
 
-| Area | Technologies |
-| --- | --- |
-| **Languages** | Python · TypeScript · JavaScript · SQL |
-| **Backend** | Django · FastAPI · Flask · REST APIs |
-| **AI / ML** | TensorFlow · Statistics · LLMs · Embeddings · LangChain · RAG |
-| **Data & Infra** | PostgreSQL · Chroma · Docker · Git · Linux · Observability |
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,django,fastapi,flask,docker,kubernetes,postgres,linux,git,github" alt="AIOps engineering toolkit" />
 
+<br />
+
+<img src="https://skillicons.dev/icons?i=tensorflow,redis,graphql,nginx,aws,azure,gcp,terraform" alt="Cloud, AI, and platform technologies" />
+
+</div>
+
+## Contributions in motion
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arycloud/arycloud/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </div>
 
 ## GitHub at a glance
