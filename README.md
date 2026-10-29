@@ -59,6 +59,14 @@ I’m **Abdul**, an **AIOps Engineer at Al Nafi** building where **automation, i
   </tr>
 </table>
 
+## Behind the scenes 🔒
+
+Some of my most hands-on AI work lives in private projects:
+
+- **Multi-agent research systems** that break down complex questions, search the web, critique findings, and produce cited reports—with semantic caching, budget-aware execution, and graceful failure recovery.
+- **AI content automation** that generates SEO-ready articles, supports human review, and publishes or schedules content through a WordPress API.
+- **Grounded legal AI** using document embeddings, vector retrieval, tool-using agents, FastAPI, and a chat interface to return source-aware answers.
+
 ## Practical skillset
 
 <div align="center">
