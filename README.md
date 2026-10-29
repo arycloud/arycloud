@@ -14,7 +14,7 @@
 
 </div>
 
-## Hi, This is Abdul. Rehman 👋
+## Hi, This is Abdul Rehman 👋
 
 I’m an **AIOps-focused ML Engineer and Python developer** who turns complex ideas into useful, production-minded software. I work at the intersection of **AI-assisted operations, automation, backend engineering, machine learning, and observability**.
 
