@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Abdul%20Rehman%20Yousaf&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AIOps%20%7C%20ML%20Engineering%20%7C%20Python%20Development&descAlignY=58&descSize=18" alt="Profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Abdul%20Rehman%20Yousaf&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AIOps%20Engineer%20%7C%20Automation%20%7C%20Python%20Development&descAlignY=58&descSize=18" alt="Profile header" />
 </div>
 
 <div align="center">
@@ -16,9 +16,9 @@
 
 ## I build systems that do more than run — they respond. ⚙️
 
-I’m **Abdul**, an ML Engineer and Python developer exploring the space where **AIOps, automation, and intelligent software** meet.
+I’m **Abdul**, an **AIOps Engineer at Al Nafi** building where **automation, intelligent software, and reliable operations** meet.
 
-🔭 Building practical AI tools, APIs, and operational workflows with **Python, Django, FastAPI, and TypeScript**
+🔭 Building practical AI tools, APIs, and operational workflows at **Al Nafi**
 
 🌱 Growing deeper into **observability, LLM applications, RAG, agents, and reliable system design**
 
