@@ -67,6 +67,24 @@ Some of my most hands-on AI work lives in private projects:
 - **AI content automation** that generates SEO-ready articles, supports human review, and publishes or schedules content through a WordPress API.
 - **Grounded legal AI** using document embeddings, vector retrieval, tool-using agents, FastAPI, and a chat interface to return source-aware answers.
 
+## Selected work at Al Nafi
+
+Alongside my personal projects, I’ve contributed to a portfolio of AI-powered products and practical software systems at **Al Nafi**:
+
+<div align="center">
+
+| Project | Focus |
+| --- | --- |
+| [Videogen](https://github.com/Al-Nafi/videogen) | AI-assisted video generation and media workflows |
+| [KOMPASS](https://github.com/Al-Nafi/KOMPASS) | Product engineering and intelligent workflow development |
+| [Orai](https://github.com/Al-Nafi/orai) | AI product development and automation |
+| [Clipper](https://github.com/Al-Nafi/clipper) | Practical software tooling and workflow automation |
+| [AI Marketing Agent](https://github.com/Al-Nafi/ai-marketing-agent) | AI-powered marketing and content automation |
+| [Medicore](https://github.com/Al-Nafi/medicore) | Applied product engineering for the healthcare domain |
+| [Qubix](https://github.com/Al-Nafi/qubix) | Intelligent product systems and platform development |
+
+</div>
+
 ## Practical skillset
 
 <div align="center">
