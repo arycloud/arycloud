@@ -14,17 +14,17 @@
 
 </div>
 
-## Hello, I'm Abdul 👋
+## I build systems that do more than run — they respond. ⚙️
 
-I’m an **AIOps-focused ML Engineer and Python developer** who turns complex ideas into useful, production-minded software. I work at the intersection of **AI-assisted operations, automation, backend engineering, machine learning, and observability**.
+I’m **Abdul**, an ML Engineer and Python developer exploring the space where **AIOps, automation, and intelligent software** meet.
 
-- Working with **[Pythonist.org](https://github.com/pythonest)** on practical software and AI solutions
-- Building intelligent operational tools with **Python, Django, FastAPI, and TypeScript**
-- Applying **LLMs, RAG, semantic search, and AI agents** to real workflows
-- Turning data and system signals into **automation, insight, and faster decisions**
-- Sharing what I learn through projects and **[pythonist.org](https://pythonist.org)**
+🔭 Building practical AI tools, APIs, and operational workflows with **Python, Django, FastAPI, and TypeScript**
 
-> **My focus:** make systems more observable, automated, reliable, and useful.
+🌱 Growing deeper into **observability, LLM applications, RAG, agents, and reliable system design**
+
+💬 Ask me about **Python, machine learning, backend engineering, automation, APIs, and turning messy problems into working software**
+
+⚡ Fun fact: The best automation is the kind people notice only when it stops working.
 
 ## Featured work
 
