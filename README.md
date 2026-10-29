@@ -16,9 +16,9 @@
 
 ## Hi, This is Abdul Rehman 👋
 
-I’m an **AIOps-focused ML Engineer and Python developer** who turns complex ideas into useful, production-minded software. I work at the intersection of **AI-assisted operations, automation, backend engineering, machine learning, and observability**.
+I’m an **AIOps Engineer** who turns complex ideas into useful, production-minded software. I work at the intersection of **AI-assisted operations, automation, backend engineering, machine learning, and observability**.
 
-- Working with **[Pythonist.org](https://github.com/pythonest)** on practical software and AI solutions
+- Working with **[AL NAFI E-Learning Pvt. (Ltd)]([https://github.com/pythonest](https://github.com/Al-Nafi))** on practical software and AI solutions
 - Building intelligent operational tools with **Python, Django, FastAPI, and TypeScript**
 - Applying **LLMs, RAG, semantic search, and AI agents** to real workflows
 - Turning data and system signals into **automation, insight, and faster decisions**
